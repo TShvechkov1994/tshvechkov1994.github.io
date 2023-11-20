@@ -196,7 +196,7 @@ h2 {
 .contact_form {
 	background: rgba(67, 186, 253, 0.06);
 }
-.contact_form .h2 {
+.contact_form h2 {
 	font-family: 'Poppins-Bold';
 	font-size: 64px;
 	font-weight: 700;
